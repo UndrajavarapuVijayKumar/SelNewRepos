@@ -21,6 +21,6 @@ public class Shopping {
         i2.setPrice(10000);
         i2.DiscountPrice();
 
-        //continution in git
+        //continution in git2
     }
 }
